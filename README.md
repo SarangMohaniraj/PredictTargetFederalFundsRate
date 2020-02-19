@@ -2,10 +2,10 @@
 Using Natural Language Processing and a Long Short-Term Memory network to predict the target federal funds rate set by the Federal Open Market Committee.
 
 <div style="display: inline-block;">
-<img src="images/effective_vs_target_federal_funds_rate.svg" alt="" width="49%">
-<img src="images/wordcloud.svg" alt="" width="49%">
-<img src="images/predictions_vs_target_federal_funds_rate.svg" alt="" width="49%">
-<img src="images/loss_vs_epoch.svg" alt="" width="49%">
+<img src="images/effective_vs_target_federal_funds_rate.svg" alt="Effective vs Target Federal Funds Rate" width="49%">
+<img src="images/wordcloud.svg" alt="WordCloud" width="49%">
+<img src="images/predictions.svg" alt="Predictions" width="49%">
+<img src="images/loss_vs_epoch.svg" alt="Loss vs Epoch" width="49%">
 </div>
 
 ## Introduction
